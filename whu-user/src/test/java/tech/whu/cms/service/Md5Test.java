@@ -8,6 +8,7 @@ import tech.whu.basic.util.SecurityUtil;
 
 public class Md5Test {
 	public static void main(String[] args) {
+
 		String password = "123456";
 		try {
 			MessageDigest md = MessageDigest.getInstance("MD5");
