@@ -12,6 +12,11 @@ public interface IUserService {
 	/**
 	 * 添加用户，需要判断用户名是否存在，如果存在抛出异常
 	 * @param user 用户对象
+
+
+
+
+
 	 * @param rids 用户的所有角色信息
 	 * @param gids 用户的所有组信息
 	 */
