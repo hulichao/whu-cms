@@ -12,6 +12,11 @@ public interface IRoleService {
 	public void update(Role role);
 	public Role load(int id);
 	public List<Role> listRole();
+
+
+
+
+
 	public Pager<RoleFindModel> findRole();
 	public void deleteRoleUsers(int rid);
 }
