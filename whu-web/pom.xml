@@ -10,6 +10,9 @@
     </parent>
 
     <artifactId>whu-web</artifactId>
+
+
+
     <packaging>war</packaging>
 
     <name>whu-web Maven Webapp</name>
