@@ -11,6 +11,10 @@ import tech.whu.basic.model.SystemContext;
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("/beans.xml")
 public class IndexServiceTest {
+
+
+
+
 	@Inject
 	private IIndexService indexService;
 	private static String rp = "C:\\Users\\cjbi\\GitHub\\whu-cms\\whu-web\\src\\main\\webapp";
