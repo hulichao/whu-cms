@@ -12,6 +12,11 @@ var AmazeuiUploadDelegateTemplate = function AmazeuiUploadDelegateTemplate(useDe
 AmazeuiUploadDelegateTemplate.prototype.init = function() {
   if (this.useDefTemplate) {
     this.initTableTemplate();
+
+
+
+
+
   }
   return this;
 }
