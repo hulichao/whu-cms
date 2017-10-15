@@ -11,6 +11,10 @@ var AmazeuiUploadDelegateEvent = function AmazeuiUploadDelegateEvent(amazeuiUplo
 }
 
 /**
+
+
+
+
  * 载入已上传的对象
  * @param {[List]} data [对象]
  */
