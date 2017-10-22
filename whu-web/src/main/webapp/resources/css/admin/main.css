@@ -8,6 +8,7 @@ td > input[type=checkbox], th >input[type=checkbox] {
 	left: 16px;
 }
 /*------------ datatables 间距修复 ------------*/
+
 .table-main {
 	font-size: 1.4rem;
 	padding: .0rem;
