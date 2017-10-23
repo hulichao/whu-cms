@@ -10,6 +10,9 @@ $(function () {
             $dropdownSearch.dropdown('open');
             var url = contextPath + '/search.do';
             var con = $dropdownInput.val().trim();
+
+
+
             $.ajax({
                 type: "post",
                 url: url,
