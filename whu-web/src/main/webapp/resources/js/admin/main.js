@@ -9,6 +9,8 @@
 		$(document).on($.AMUI.fullscreen.raw.fullscreenchange, function() {
 			$fullText.text($.AMUI.fullscreen.isFullscreen ? '退出全屏' : '开启全屏');
 		});
+
+
 	});
 	$.ajaxCheck = function(data) {
 		if (data.result)
