@@ -9,6 +9,8 @@ $(function () {
             }
             if ($('#gId').val() != '')
                 d.gId = $('#gId').val();
+
+
             if ($('#rId').val() != '')
                 d.rId = $('#rId').val();
         }
