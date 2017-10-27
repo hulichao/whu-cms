@@ -11,6 +11,10 @@ $(function() {
 	"sWidth" : "2%",
 	'bSortable' : true,
 	'fnCreatedCell' : function(nTd, sData, oData, iRow, iCol) {
+
+
+
+
 	    $(nTd).html('<input type="checkbox" name="checkList" title="' + sData + '" value="' + sData + '">');
 	}
     }, {
