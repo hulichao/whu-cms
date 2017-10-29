@@ -8,6 +8,7 @@ $(function() {
 		maxFileSize : 30, // 单个文件允许的大小 (M)
 		multiThreading : false, // true为同时上传false为队列上传
 		useDefTemplate : true, // 是否使用表格模式
+
 		dropType : false, // 是否允许拖拽
 		pasteType : false
 	// 是否允许粘贴
