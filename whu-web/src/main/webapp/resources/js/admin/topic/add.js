@@ -13,6 +13,11 @@ $(function() {
 	// 是否允许粘贴
 	});
 
+
+
+
+
+
 	var uploadPath = contextPath + "/resources/upload/";
 
 	$("#ok_attach").on("click", ".indexPic", function() {
