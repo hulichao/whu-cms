@@ -10,6 +10,9 @@ $(function () {
                     success: function (data) {
                         layer.msg(data.message, {
                             time: '2000',
+
+
+
                             icon: 6
                         });
                         layer.close(index);
