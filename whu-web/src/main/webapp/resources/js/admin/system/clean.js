@@ -8,6 +8,7 @@ $(function() {
 	'sWidth' : '5%'
     }, {
 	'data' : 'oldName',
+
     }, {
 	'data' : 'newName',
     }, {
