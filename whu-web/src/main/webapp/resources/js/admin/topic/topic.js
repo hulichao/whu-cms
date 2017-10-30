@@ -11,6 +11,10 @@ $(function() {
 	}, {
 		'data' : 'id',
 		'sWidth' : '5%'
+
+
+
+
 	}, {
 		'data' : 'title',
 		'sWidth' : '30%',
