@@ -9,6 +9,8 @@ $(function() {
 	$clip.photoClip({
 		width : 900,
 		height : 350,
+
+
 		fileMinSize : 20,
 		file : $file,
 		defaultImg : "",
