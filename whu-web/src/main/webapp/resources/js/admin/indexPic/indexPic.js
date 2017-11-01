@@ -12,6 +12,11 @@ $(function() {
 		'data' : 'id',
 		'sWidth' : '5%'
 	}, {
+
+
+
+
+
 		'data' : 'newName',
 		'sWidth' : '5%',
 		"mRender" : function(data, type, full) {
