@@ -12,6 +12,11 @@ $(function() {
 		height : 350,
 		fileMinSize : 20,
 		file : $file,
+
+
+
+
+
 		defaultImg : "",
 		ok : "#clipBtn",
 		loadStart : function() {
