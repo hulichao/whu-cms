@@ -11,6 +11,10 @@
  * Date: 2013-03-11
  */
 (function($){
+
+
+
+
 	//default consts of excheck
 	var _consts = {
 		event: {
