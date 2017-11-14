@@ -11,6 +11,10 @@
         } else {
             // 全局模式
             factory(window.jQuery);
+
+
+
+
         }
     } else if (typeof module === "object" && typeof module.exports === "object") {
         // commonjs
