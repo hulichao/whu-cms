@@ -8,6 +8,7 @@ public class IndexPicDto {
 	/**
 	 * 源文件名
 	 */
+
 	private String oldName;
 	/**
 	 * 上传之后的临时图片宽度
