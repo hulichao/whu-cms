@@ -10,6 +10,9 @@ import tech.whu.cms.model.Role;
  * @author cjb
  */
 public interface IDwrService {
+
+
+
 	/**
 	 * 添加GroupChannel对象
 	 * @param group
