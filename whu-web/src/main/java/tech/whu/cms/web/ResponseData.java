@@ -9,6 +9,8 @@ public class ResponseData {
 	public static final ResponseData SUCCESS_NO_DATA = new ResponseData(true,"操作成功");
 	public static final ResponseData FAILED_NO_DATA = new ResponseData(false,"操作失败");
 	public static final ResponseData FAILED_DEL_OWNROLE = new ResponseData(false,"当前用户不能删除自己被授于的角色");
+
+
 	
 	private boolean status;
 	private String type;
