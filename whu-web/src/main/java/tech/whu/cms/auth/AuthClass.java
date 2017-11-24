@@ -8,6 +8,7 @@ import java.lang.annotation.RetentionPolicy;
  * @author Administrator
  *
  */
+
 @Retention(RetentionPolicy.RUNTIME)
 public @interface AuthClass {
 	/**
