@@ -8,6 +8,7 @@ import java.util.Properties;
 
 import tech.whu.cms.model.BaseInfo;
 
+
 public class BaseInfoUtil {
 	private static BaseInfoUtil biu;
 	private static Properties prop;
