@@ -11,6 +11,10 @@ public class CmsSessionContext {
 	
 	public static void addSessoin(HttpSession session) {
 		ctx.put(session.getId(), session);
+
+
+
+
 	}
 	
 	public static void removeSession(HttpSession session) {
