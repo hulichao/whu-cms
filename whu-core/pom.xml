@@ -11,6 +11,10 @@
 	<artifactId>whu-core</artifactId>
 	<name>whu-core</name>
 	<url>http://maven.apache.org</url>
+
+
+
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
