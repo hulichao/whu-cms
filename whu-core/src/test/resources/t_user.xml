@@ -9,6 +9,8 @@
 	<t_user id="3" username="admin3" password="123" 
 		nickname="admin1" email="admin1@admin.com" status="1" phone="110"
 		create_date="2010-12-12"/>
+
+
 	
 	<t_group id="1" name="财务处" descr="负责财务部门的网页"/>
 	<t_group id="2" name="计科系" descr="负责财务部门的网页"/>
