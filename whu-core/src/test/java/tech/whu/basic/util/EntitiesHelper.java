@@ -12,6 +12,11 @@ import tech.whu.cms.model.User;
 @SuppressWarnings("deprecation")
 public class EntitiesHelper {
 	private static User baseUser = new User(1,"admin1","123","admin1","admin1@admin.com","110",1);
+
+
+
+
+
 	
 	public static User getBaseUser() {
 		return baseUser;
