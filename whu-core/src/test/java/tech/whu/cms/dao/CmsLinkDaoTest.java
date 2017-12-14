@@ -8,6 +8,7 @@ import javax.inject.Inject;
 
 import org.dbunit.DatabaseUnitException;
 import org.hibernate.Session;
+
 import org.hibernate.SessionFactory;
 import org.junit.After;
 import org.junit.Before;
