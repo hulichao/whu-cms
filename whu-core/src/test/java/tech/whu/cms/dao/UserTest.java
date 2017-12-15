@@ -12,6 +12,11 @@ import org.springframework.transaction.annotation.Transactional;
 @RunWith(SpringJUnit4ClassRunner.class)//让junit工作在spring环境中
 @ContextConfiguration("/beans.xml")//在classes中spring的配置文件
 //transactionManager表示在spring配置文件中所声明的事务对象
+
+
+
+
+
 //defaultRollback=true表示操作会自动回滚，这样你在单元测试中所作的操作都不会影响数据库中的数据
 @Transactional
 public class UserTest {
