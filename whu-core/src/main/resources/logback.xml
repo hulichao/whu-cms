@@ -8,6 +8,7 @@
 		<encoder charset="UTF-8">
 			<pattern>${pattern}</pattern>
 		</encoder>
+
 	</appender>
 	<!-- 文件输出 -->
 	<!-- <appender name="LOGS"
