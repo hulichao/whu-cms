@@ -8,6 +8,7 @@ import tech.whu.cms.model.*;
 
 
 public interface IGroupDao extends IBaseDao<Group> {
+
 	public List<Group> listGroup();
 	public Pager<GroupFindModel> findGroup();
 	public void deleteGroupUsers(int gid);
