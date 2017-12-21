@@ -11,6 +11,10 @@ import tech.whu.cms.model.IndexPic;
 @Repository("indexPicDao")
 public class IndexPicDao extends BaseDao<IndexPic> implements IIndexPicDao {
 
+
+
+
+
 	@SuppressWarnings("unchecked")
 	@Override
 	public List<IndexPic> listIndexPicByNum(int num) {
