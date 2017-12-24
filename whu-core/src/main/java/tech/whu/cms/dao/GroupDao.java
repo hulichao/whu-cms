@@ -11,6 +11,9 @@ import tech.whu.cms.model.*;
 @Repository("groupDao")
 public class GroupDao extends BaseDao<Group> implements IGroupDao {
 
+
+
+
 	@Override
 	public List<Group> listGroup() {
 		return this.list("from Group");
