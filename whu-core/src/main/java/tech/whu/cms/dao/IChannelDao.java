@@ -11,6 +11,10 @@ import tech.whu.cms.model.ChannelType;
 
 public interface IChannelDao extends IBaseDao<Channel> {
 	/**
+
+
+
+
 	 * 根据父id获取所有的子栏目
 	 * @param pid
 	 * @return
