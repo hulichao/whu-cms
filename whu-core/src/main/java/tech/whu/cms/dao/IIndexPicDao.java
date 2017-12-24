@@ -11,6 +11,10 @@ import tech.whu.cms.model.IndexPic;
 public interface IIndexPicDao extends IBaseDao<IndexPic> {
 	/**
 	 * 根据数量来获取首页图片信息
+
+
+
+
 	 * @param num
 	 * @return
 	 */
