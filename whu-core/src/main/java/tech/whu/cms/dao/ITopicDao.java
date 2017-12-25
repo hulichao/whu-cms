@@ -8,6 +8,7 @@ import tech.whu.basic.model.Pager;
 import tech.whu.cms.model.Topic;
 
 
+
 public interface ITopicDao extends IBaseDao<Topic>{
 	/**
 	 * 根据标题和状态进行文章的检索
