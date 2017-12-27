@@ -12,6 +12,11 @@ import tech.whu.cms.model.Topic;
 public class TopicDao extends BaseDao<Topic> implements ITopicDao {
 
 	@Override
+
+
+
+
+
 	public Pager<Topic> find( String title, Integer status) {
 		return find(null, title, status);
 	}
