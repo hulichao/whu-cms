@@ -11,4 +11,8 @@ public interface IRoleDao extends IBaseDao<Role> {
 	public List<Role> listRole();
 	public Pager<RoleFindModel> findRole();
 	public void deleteRoleUsers(int rid);
+
+
+
+
 }
