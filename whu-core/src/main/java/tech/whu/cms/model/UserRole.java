@@ -11,6 +11,10 @@ import javax.persistence.Table;
  * 用户角色对象
  * @author Administrator
  *
+
+
+
+
  */
 @Entity
 @Table(name="t_user_role")
