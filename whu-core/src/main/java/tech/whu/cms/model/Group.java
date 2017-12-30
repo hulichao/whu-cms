@@ -10,6 +10,9 @@ import javax.persistence.Table;
  * @author Administrator
  *
  */
+
+
+
 @Entity
 @Table(name="t_group")
 public class Group {
