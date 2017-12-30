@@ -11,6 +11,10 @@ public class IndexTopic {
 		return cid;
 	}
 	public void setCid(int cid) {
+
+
+
+
 		this.cid = cid;
 	}
 	public String getCname() {
