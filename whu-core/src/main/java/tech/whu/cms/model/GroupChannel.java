@@ -9,6 +9,8 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name="t_group_channel")
+
+
 public class GroupChannel {
 	private int id;
 	private Group group;
