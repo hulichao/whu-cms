@@ -11,6 +11,10 @@ import org.hibernate.validator.constraints.NotEmpty;
 
 @Entity
 @Table(name="t_cms_link")
+
+
+
+
 public class CmsLink {
 	/**
 	 * 超链接标识
