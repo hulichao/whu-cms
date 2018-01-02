@@ -8,6 +8,7 @@ import java.math.BigInteger;
 public class GroupFindModel {
 
     /**
+
      * 组id
      */
     private int id;
