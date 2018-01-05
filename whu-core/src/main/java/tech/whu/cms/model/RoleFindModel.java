@@ -8,6 +8,7 @@ import java.math.BigInteger;
 public class RoleFindModel  {
 
     /**
+
      * 角色id
      */
     private int id;
