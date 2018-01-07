@@ -10,6 +10,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>whu-basic-common</artifactId>
+
+
+
 	<name>whu-basic-common</name>
 	<dependencies>
 		<dependency>
