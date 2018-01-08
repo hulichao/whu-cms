@@ -10,6 +10,9 @@
 		</encoder>
 	</appender>
 	<!-- 文件输出 -->
+
+
+
 	<appender name="LOGS"
 		class="ch.qos.logback.core.rolling.RollingFileAppender">
 		<file>${catalina.home}/logs/whu-web.log</file>
