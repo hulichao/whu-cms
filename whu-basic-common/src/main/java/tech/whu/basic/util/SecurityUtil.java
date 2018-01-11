@@ -12,6 +12,11 @@ public class SecurityUtil {
 	}
 	
 	public static String md5(String username,String password) throws NoSuchAlgorithmException {
+
+
+
+
+
 		MessageDigest md = MessageDigest.getInstance("MD5");
 		md.update(username.getBytes());
 		md.update(password.getBytes());
