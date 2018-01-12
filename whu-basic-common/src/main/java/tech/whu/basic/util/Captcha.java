@@ -10,6 +10,9 @@ public class Captcha {
 	private int width;
 	private int height;
 	private int num;
+
+
+
 	private String code;
 	private static final Random ran = new Random();
 	private static Captcha captcha;
