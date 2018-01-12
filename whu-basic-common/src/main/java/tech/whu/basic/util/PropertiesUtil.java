@@ -10,6 +10,9 @@ public class PropertiesUtil {
 	private static Map<String,Properties> props = null;
 	private PropertiesUtil(){
 		
+
+
+
 	}
 	
 	public static PropertiesUtil getInstance() {
