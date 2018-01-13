@@ -12,6 +12,11 @@ import org.apache.commons.beanutils.PropertyUtils;
 public class EnumUtils {
 	/**
 	 * 将枚举中的值转换为一组序数列表
+
+
+
+
+
 	 * @param clz
 	 * @return
 	 */
