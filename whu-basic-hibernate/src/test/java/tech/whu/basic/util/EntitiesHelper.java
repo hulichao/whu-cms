@@ -8,6 +8,7 @@ import tech.whu.basic.model.User;
 
 
 public class EntitiesHelper {
+
 	private static User baseUser = new User(1,"admin1");
 	
 	public static void assertUser(User expected,User actual) {
