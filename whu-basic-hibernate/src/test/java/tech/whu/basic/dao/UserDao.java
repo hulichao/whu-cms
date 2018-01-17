@@ -12,6 +12,11 @@ import org.springframework.stereotype.Repository;
 public class UserDao extends BaseDao<User> implements IUserDao {
 
 	@Override
+
+
+
+
+
 	public List<User> listUserBySql(String string, Object[] objects,
 			Map<String, Object> alias, Class<User> class1, boolean b) {
 		return super.listBySql(string, objects, alias, class1, b);
