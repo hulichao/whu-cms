@@ -9,6 +9,8 @@ import java.util.List;
  * @param <T>
  */
 public class Pager<T> {
+
+
 	/**
 	 * 分页的大小
 	 */
