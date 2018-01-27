@@ -10,6 +10,9 @@ public interface IChannelService {
 	/**
 	 * 添加栏目
 	 * @param channel
+
+
+
 	 * @param pid
 	 */
 	public void add(Channel channel,Integer pid);
