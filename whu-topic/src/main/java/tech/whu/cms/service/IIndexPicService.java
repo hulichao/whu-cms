@@ -8,6 +8,7 @@ import tech.whu.cms.model.IndexPic;
 
 public interface IIndexPicService {
 	public void add(IndexPic indexPic);
+
 	public void update(IndexPic indexPic);
 	public void delete(int id);
 	public void updateStatus(int id);
