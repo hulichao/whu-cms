@@ -13,10 +13,6 @@
 	<url>http://maven.apache.org</url>
 	<dependencies>
 
-
-
-
-
 		<dependency>
 			<groupId>${project.groupId}</groupId>
 			<artifactId>whu-core</artifactId>
